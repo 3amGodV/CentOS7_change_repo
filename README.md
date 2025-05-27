@@ -4,9 +4,14 @@
 
 将上述脚本保存为 change_to_aliyun_repo.sh
 
-给脚本添加执行权限：chmod +x change_to_aliyun_repo.sh
+给脚本添加执行权限：
+chmod +x change_to_aliyun_repo.sh
 
-以root用户执行脚本：sudo ./change_to_aliyun_repo.sh 或直接 ./change_to_aliyun_repo.sh（如果已经是root用户）
+以root用户执行脚本：
+sudo ./change_to_aliyun_repo.sh 
+或直接 
+./change_to_aliyun_repo.sh（如果已经是root用户）
+
 
 脚本功能：
 
